@@ -17,7 +17,7 @@
 
 **TreinaVaga.tech** é uma plataforma inovadora de preparação para entrevistas técnicas e desenvolvimento de carreira, utilizando inteligência artificial para personalizar seu aprendizado e maximizar suas chances de sucesso no mercado de trabalho.
 
-Este repositório é o **Roadmap Oficial** da TreinaVagaAI, onde compartilhamos nossa visão, planejamento de features e coletamos feedback da comunidade para construir a melhor plataforma de preparação para entrevistas do Brasil.
+Este repositório é o **Roadmap Oficial** da TreinaVaga.tech, onde compartilhamos nossa visão, planejamento de features e coletamos feedback da comunidade para construir a melhor plataforma de preparação para entrevistas do Brasil.
 
 ---
 
@@ -92,8 +92,8 @@ Crie sua conta gratuitamente e comece a treinar hoje mesmo!
 
 - 🌐 **Website:** [treinavaga.tech](https://app.treinavaga.tech)
 - 📧 **Email:** contato@treinavaga.tech
-- 💬 **Discord:** Em breve
-- 🐦 **Twitter:** Em breve
+
+> 💬 Estamos preparando nossos canais de comunidade no Discord e Twitter. Fique ligado para novidades!
 
 ---
 
