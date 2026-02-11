@@ -75,7 +75,7 @@ Crie sua conta gratuitamente e comece a treinar hoje mesmo!
 
 <samp>
 <br>
-By <i><a href="www.lucaspanzera.com">Lucas Panzera</a></i>
+By <i><a href="https://www.lucaspanzera.com">Lucas Panzera</a></i>
 </samp>
 
 
