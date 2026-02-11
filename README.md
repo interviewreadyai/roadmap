@@ -2,12 +2,13 @@
 
 # 🚀 TreinaVaga.tech - Roadmap Oficial
 
-### _Seu caminho para a vaga dos sonhos começa aqui!_
+### _A preparação ideal para sua carreira._
 
-[![Website](https://img.shields.io/badge/Website-treinavaga.tech-blue?style=for-the-badge&logo=google-chrome)](https://app.treinavaga.tech)
-[![GitHub Issues](https://img.shields.io/github/issues/interviewreadyai/roadmap?style=for-the-badge)](https://github.com/interviewreadyai/roadmap/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/interviewreadyai/roadmap?style=for-the-badge)](https://github.com/interviewreadyai/roadmap/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Website](https://img.shields.io/badge/Landing_Page-000?style=for-the-badge&logo=edge&logoColor=white)](https://www.treinavaga.tech)
+[![App](https://img.shields.io/badge/Plataforma_App-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://app.treinavaga.tech)
+[![Issues](https://img.shields.io/github/issues/interviewreadyai/roadmap?style=for-the-badge&color=eb4034&logo=github)](https://github.com/interviewreadyai/roadmap/issues)
+[![Stars](https://img.shields.io/github/stars/interviewreadyai/roadmap?style=for-the-badge&color=ffd700&logo=reverbnation&logoColor=black)](https://github.com/interviewreadyai/roadmap/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-4ade80?style=for-the-badge&logo=read-the-docs&logoColor=black)](LICENSE)
 
 </div>
 
@@ -52,28 +53,6 @@ Sua opinião é fundamental para nós! Veja como você pode participar:
 
 ---
 
-## 🎯 Features em Destaque
-
-### ✅ Já Disponível
-- Simulações de entrevistas técnicas com IA
-- Feedback personalizado em tempo real
-- Banco de questões de algoritmos e estruturas de dados
-- Preparação para entrevistas comportamentais
-- Dashboard de progresso e analytics
-
-### 🚧 Em Desenvolvimento
-- Sistema de mentoria ao vivo
-- Preparação para System Design
-- Simulações específicas por empresa
-- Modo multiplayer (entrevistas em grupo)
-- Certificações e badges
-
-### 💭 Planejado
-- Integração com processos seletivos reais
-- Marketplace de mentores
-- Comunidade e networking
-- App mobile (iOS/Android)
-
 > 💡 **Dica:** Visite a [aba de Issues](https://github.com/interviewreadyai/roadmap/issues) para ver todos os itens em detalhes e votar nos que você mais deseja!
 
 ---
@@ -90,25 +69,15 @@ Crie sua conta gratuitamente e comece a treinar hoje mesmo!
 
 ## 📞 Contato e Comunidade
 
-- 🌐 **Website:** [treinavaga.tech](https://app.treinavaga.tech)
-- 📧 **Email:** contato@treinavaga.tech
+- 🌐 **Website:** [treinavaga.tech](https://www.treinavaga.tech)
+- 🚀 **Plataforma:** [treinavaga.tech](https://app.treinavaga.tech)
+- 📧 **Email:** treinavagaai@gmail.com
 
-> 💬 Estamos preparando nossos canais de comunidade no Discord e Twitter. Fique ligado para novidades!
+<samp>
+<br>
+By <i><a href="www.lucaspanzera.com">Lucas Panzera</a></i>
+</samp>
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 <div align="center">
 
-**⭐ Se você gosta do projeto, não esqueça de dar uma estrela! ⭐**
-
-Feito com ❤️ pela equipe TreinaVaga.tech
-
-[Website](https://app.treinavaga.tech) • [Roadmap](https://github.com/interviewreadyai/roadmap) • [Issues](https://github.com/interviewreadyai/roadmap/issues)
-
-</div>
