@@ -8,7 +8,7 @@
 [![App](https://img.shields.io/badge/Plataforma_App-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://app.treinavaga.tech)
 [![Issues](https://img.shields.io/github/issues/interviewreadyai/roadmap?style=for-the-badge&color=eb4034&logo=github)](https://github.com/interviewreadyai/roadmap/issues)
 [![Stars](https://img.shields.io/github/stars/interviewreadyai/roadmap?style=for-the-badge&color=ffd700&logo=reverbnation&logoColor=black)](https://github.com/interviewreadyai/roadmap/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-4ade80?style=for-the-badge&logo=read-the-docs&logoColor=black)](LICENSE)
+[![Deploy to Production](https://github.com/lucaspanzera1/TreinaVaga/actions/workflows/deploy.yml/badge.svg)](https://github.com/lucaspanzera1/TreinaVaga/actions/workflows/deploy.yml)
 
 </div>
 
