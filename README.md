@@ -92,8 +92,8 @@ Crie sua conta gratuitamente e comece a treinar hoje mesmo!
 
 - 🌐 **Website:** [treinavaga.tech](https://app.treinavaga.tech)
 - 📧 **Email:** contato@treinavaga.tech
-- 💬 **Discord:** [Entre na nossa comunidade](https://discord.gg/treinavaga) _(em breve)_
-- 🐦 **Twitter:** [@treinavaga](https://twitter.com/treinavaga) _(em breve)_
+- 💬 **Discord:** Em breve
+- 🐦 **Twitter:** Em breve
 
 ---
 
